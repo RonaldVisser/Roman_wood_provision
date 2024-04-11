@@ -10,4 +10,6 @@ The analyses consists of four different case studies of dendrochronological mate
 
 -   Long distance transport: building the harbour of Forum Hadriani (Voorburg (NL)): [forum_hadriani.R](forum_hadriani.R)
 
--   Local wood used late Roman contexts: Cuijk and Gennep: (lateRoman.R)[lateRoman.R]
+-   Local wood used late Roman contexts: Cuijk and Gennep: [lateRoman.R](lateRoman.R)
+
+The citation of the used data can be found in: [Roman_Timber_Provision_Datacitation_20240310.pdf](Roman_Timber_Provision_Datacitation_20240310.pdf)
