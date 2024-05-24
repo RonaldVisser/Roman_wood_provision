@@ -1,5 +1,7 @@
 # Roman wood provision
 
+[![DOI](https://zenodo.org/badge/206963039.svg)](https://zenodo.org/doi/10.5281/zenodo.11279769)
+
 The repository contains the analyses related to "The Roman timber provision in the German provinces. A model to explain the archaeological, dendrochronological and historical evidence"
 
 The analyses consists of four different case studies of dendrochronological material. Each case study represent a different provenance group, with an analyses-script related to that group:
