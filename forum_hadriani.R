@@ -53,5 +53,5 @@ ggsave("export/forum_felling_histogram.png", width = 12, height = 8)
 ggarrange(felling_dates,                                                 
           ggarrange(felling_age_hist, provenance_pie, ncol = 2, labels = c("B", "C")), 
           nrow = 2, labels = "A") 
-ggsave("export/forum_combined.png", dpi = 300, width = 12, height = 12)  
+ggsave("export/forum_combined.png", dpi = 300, width = 10, height = 10)  
 
