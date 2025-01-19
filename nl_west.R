@@ -59,4 +59,4 @@ ggsave("export/nl_west_felling_dates_age_scatter.png", felling_dates, width = 12
 ggarrange(felling_dates,                                                 
           ggarrange(felling_age_hist, context_pie, ncol = 2, labels = c("B", "C")), 
           nrow = 2, labels = "A") 
-ggsave("export/nl_west_combined.png", dpi = 300, width = 12, height = 12)  
+ggsave("export/nl_west_combined.png", dpi = 300, width = 10, height = 10)  
